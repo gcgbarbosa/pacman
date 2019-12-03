@@ -1,1 +1,1 @@
-# pacman
+# Pacman using A* algorithm
